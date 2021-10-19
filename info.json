@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "name": "Narwanto",
+      "age":24,
+      "location": "Salatiga",
+      "id": 4
+    },
+    {
+      "name": "Narwanti",
+      "age":24,      
+      "location": "Salatiga",
+      "id": 1
+    },
+    {
+      "name": "Narwa",
+      "age":24,      
+      "location": "Semarang",
+      "id": 2
+    },
+    {
+      "name": "Narto",
+      "age":24,      
+      "location": "Semarang",
+      "id": 3
+    }
+  ],
+  "professions":[
+    {
+      "name":"Driver",
+      "id":1
+    },
+    {
+      "name":"developer",
+      "id":2
+    }
+  ]
+}
